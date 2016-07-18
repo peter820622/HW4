@@ -1,0 +1,14 @@
+.block1{
+    background;width:0px;
+    border-top:100px solid green;
+    border-right:100px solid red;
+    border-bottom:100px solid blue;
+    border-left:100px solid yellow;
+}
+.block2{
+    float:left;
+    background;width:0px;
+    border-top:100px solid rgb(172,216,231);
+    border-right:100px solid rgb(0,0,255);
+    border-left:100px solid rgb(0,0,130);
+}
